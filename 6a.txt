@@ -1,0 +1,60 @@
+student {
+  display: block;
+  width: 450px;
+  margin: 10px;
+  border: 5px double orange;
+}
+
+name {
+  display: block;
+  font: bold 18pt Verdana;
+  color: blue;
+}
+
+ usn {
+  display: block;
+}
+
+ branch,college,yearofjoin {
+  display: block;
+  color: brown;
+}
+
+ email {
+  display: block;
+  color: green;
+}
+
+html
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab6a.css"?>
+
+<vtu>
+  <student>
+    <usn>1NHO8MCA13</usn>
+    <name>Prajan.S</name>
+    <branch>MCA</branch>
+    <college>NHCE</college>
+    <yearofjoin>2008</yearofjoin>
+    <email>poojal5@gmail.com</email>
+  </student>
+
+  <student>
+    <usn>1NHO8MCA41</usn>
+    <name>ManMohan.K</name>
+    <branch>MCA</branch>
+    <college>NHCE</college>
+    <yearofjoin>2008</yearofjoin>
+    <email>prakrati25@gmail.com</email>
+  </student>
+
+  <student>
+    <usn>1NHO8MCA74</usn>
+    <name>Saritha.C</name>
+    <branch>MCA</branch>
+    <college>NHCE</college>
+    <yearofjoin>2008</yearofjoin>
+    <email>sunitha.c.28@gmail.com</email>
+  </student>
+
+</vtu>
